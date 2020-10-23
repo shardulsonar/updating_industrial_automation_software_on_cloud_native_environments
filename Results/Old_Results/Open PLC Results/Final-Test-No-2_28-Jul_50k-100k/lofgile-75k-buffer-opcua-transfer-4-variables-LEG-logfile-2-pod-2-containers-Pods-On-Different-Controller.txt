@@ -1,0 +1,7 @@
+[2020-07-28 10:22:12.157] [exec_time_logger] [info] Execution Time [µ]; 1447908 
+[2020-07-28 10:22:15.508] [exec_time_logger] [info] Execution Time [µ]; 1350297 
+[2020-07-28 10:22:19.981] [exec_time_logger] [info] Execution Time [µ]; 2473224 
+[2020-07-28 10:22:25.608] [exec_time_logger] [info] Execution Time [µ]; 3626749 
+[2020-07-28 10:22:29.305] [exec_time_logger] [info] Execution Time [µ]; 1697409 
+[2020-07-28 10:22:33.890] [exec_time_logger] [info] Execution Time [µ]; 2584926 
+[2020-07-28 10:22:41.095] [exec_time_logger] [info] Execution Time [µ]; 5204935 

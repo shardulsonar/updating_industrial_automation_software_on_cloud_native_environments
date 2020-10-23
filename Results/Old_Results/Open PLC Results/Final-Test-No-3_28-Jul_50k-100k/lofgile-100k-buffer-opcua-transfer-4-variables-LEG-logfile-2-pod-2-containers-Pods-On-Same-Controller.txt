@@ -1,0 +1,11 @@
+[2020-07-28 16:48:46.906] [exec_time_logger] [info] Execution Time [µ]; 4299093 
+[2020-07-28 16:48:51.195] [exec_time_logger] [info] Execution Time [µ]; 2289306 
+[2020-07-28 16:48:57.815] [exec_time_logger] [info] Execution Time [µ]; 4620035 
+[2020-07-28 16:49:02.652] [exec_time_logger] [info] Execution Time [µ]; 2836782 
+[2020-07-28 16:49:11.231] [exec_time_logger] [info] Execution Time [µ]; 6579057 
+[2020-07-28 16:49:14.494] [exec_time_logger] [info] Execution Time [µ]; 1261967 
+[2020-07-28 16:49:18.078] [exec_time_logger] [info] Execution Time [µ]; 1583885 
+[2020-07-28 16:49:23.046] [exec_time_logger] [info] Execution Time [µ]; 2967907 
+[2020-07-28 16:49:28.729] [exec_time_logger] [info] Execution Time [µ]; 3683494 
+[2020-07-28 16:49:32.784] [exec_time_logger] [info] Execution Time [µ]; 2054472 
+[2020-07-28 16:49:37.237] [exec_time_logger] [info] Execution Time [µ]; 2453125 
